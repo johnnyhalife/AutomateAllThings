@@ -93,13 +93,13 @@ sudo vim  /Library/LaunchDaemons/org.jenkins-ci.plist
 - Now let's stop Jenkins by doing
 
 ```
-sudo launchctl unload -w /Library/LaunchAgents/org.jenkins-ci.plist
+sudo launchctl unload -w /Library/LaunchDaemons/org.jenkins-ci.plist
 ```
 
 - And then run this command to start it again
 
 ```
-sudo launchctl load -w /Library/LaunchAgents/org.jenkins-ci.plist
+sudo launchctl load -w /Library/LaunchDaemons/org.jenkins-ci.plist
 ```
 
 - Go back to your Web Browser, and let's configure `grunt` on Jenkins.
