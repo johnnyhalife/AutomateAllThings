@@ -5,8 +5,8 @@ The main idea of a full day course is to learn how to Setup CI by doing it, and 
 
 I decided to build this course after the success of "Mastering the Build Process" talk I gave last year (on Oct), which was really practical but now I want to take it one step forward and help attendees to learn by doing.
 
-## Contents 
-- Presentation will be available on the root of the repo
+## Contents
+- Presentation with the links to resources is available as `AutomateAllTheThings-Slides.pdf`
 - On Exercises folder you will find our 4 hands-on labs
 
 
